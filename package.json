@@ -1,0 +1,17 @@
+{
+  "name": "node2heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Annu Cherian",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.14.0",
+    "request": "^2.88.2"
+  }
+}
